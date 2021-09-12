@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MathewsTheCoder007
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Front-End & Back-End development of Web Development
 - 🌱 I’m currently learning Javascript
 - 🤨 Don't Steal My Creations, I can claim copyright on you 
 <!---
